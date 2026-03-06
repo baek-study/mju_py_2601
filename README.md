@@ -18,7 +18,6 @@
 
 ### [💻실습 파일 및 배포 코드](https://github.com/baek-study/mju_py_2601/blob/main/source/week1_mju.ipynb)
 <ul>
-<li>`1주차 실습: "hello world" 출력 (수업 후 배포)  </li>
-<li> <a href = 'http://portal.mju.ac.kr'>구글 클래스룸 바로가기</a></li>  
+<li>1주차 실습: "hello world" 출력 (수업 후 배포)  </li>
 </ul>
 
