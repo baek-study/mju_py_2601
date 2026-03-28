@@ -3,7 +3,7 @@
 <hr size = "10px", width ="500px">
 
 
-## [4주차 강의&nbsp;-&nbsp;리스트]()
+## [📋4주차 강의&nbsp;-&nbsp;리스트]()
 
 ### [리스트 기본 구조]()
 <ul>
@@ -38,7 +38,7 @@
 </ul>
 <br>
 
-## [1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/mju_py_2601/blob/main/source/week1_mju.ipynb)
+## [🐍1주차 강의 &nbsp;-&nbsp; 파이썬 소개 및 첫걸음](https://github.com/baek-study/mju_py_2601/blob/main/source/week1_mju.ipynb)
 
 ### [파이썬 소개](https://github.com/baek-study/mju_py_2601/blob/main/source/week1_mju.ipynb)
 <ul>
@@ -59,7 +59,7 @@
 
 <br>
 
-## [2주차 강의&nbsp;-&nbsp;변수와 자료형](https://github.com/baek-study/mju_py_2601/blob/main/source/week2_exam.ipynb)
+## [📦2주차 강의&nbsp;-&nbsp;변수와 자료형](https://github.com/baek-study/mju_py_2601/blob/main/source/week2_exam.ipynb)
 
 ### [변수(variable)](https://github.com/baek-study/mju_py_2601/blob/main/source/week2_exam.ipynb)
 <ul>
@@ -100,7 +100,7 @@
 
 <br>
 
-## [3주차 강의&nbsp;-&nbsp;입력과 형변환]()
+## [🔄3주차 강의&nbsp;-&nbsp;입력과 형변환]()
 
 ### [표준 입력함수 input()&형변환]()
 <ul>
